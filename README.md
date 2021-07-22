@@ -1,2 +1,2 @@
-# IkoMobile2
+# IkoMobile
 Created with CodeSandbox
