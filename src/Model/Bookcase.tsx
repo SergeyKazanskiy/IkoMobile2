@@ -20,7 +20,6 @@ export const bookcaseSlice = createSlice({
     addNew(state, action: PayloadAction<iBookshelf>) {
       state.title = action.payload.title;
       state.number = action.payload.number;
-      state.number = action.payload.number;
     },
     addBookshelf(state, action: PayloadAction<iBookshelf>) {
       state.bookshelves = [...state.bookshelves, test2];
